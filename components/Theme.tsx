@@ -11,7 +11,7 @@ const titillium = Titillium_Web({
 
 const Theme = () => {
   return (
-    <div className="bg-gray-200 bg-[url('/assets/background.png')] bg-blend-screen bg-cover">
+    <div className="bg-gray-200 bg-[url('/assets/background_video.mp4')] bg-blend-screen bg-cover">
       <div className="gap-10 text-center justify-center items-center p-10">
         {/* <Image src={theme} alt="Theme" width={400} className="col-span-2 animate-vertical rounded-full" /> */}
         <div className="flex-wrap flex-col gap-5 col-span-3 justify-center">
