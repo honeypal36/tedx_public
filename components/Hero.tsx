@@ -6,7 +6,7 @@ const gilroy = localFont({ src: "../public/font/Gilroy-BlackItalic.ttf" });
 
 const Hero = () => {
   return (
-    <div className="min-h-screen w-full bg-cover bg-center bg-gray-600 bg-[url('/assets/posterx.png')] bg-blend-hard-light">
+    <div className="min-h-screen w-full bg-cover bg-center bg-gray-600 bg-[url('/assets/new_poster.jpg')] bg-blend-hard-light">
       <Header />
       <div className="flex flex-col lg:flex-row justify-between items-center h-screen p-10">
         <h1
